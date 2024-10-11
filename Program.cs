@@ -13,8 +13,8 @@ if (builder.Environment.IsDevelopment())
             "v1",
             new OpenApiInfo
             {
-                Title = "Todo API",
-                Description = "Keep track of your tasks",
+                Title = "Pizza API",
+                Description = "For a Pizza Shop",
                 Version = "v1",
             }
         );
